@@ -48,7 +48,7 @@ public class JackSparrow {
 		int D = scanner.nextInt();
 
 		int minimumBoats = calculateMinimumBoats(A, B, C, D);
-		System.out.println("Minimum Boat required for captain is: " + minimumBoats);
+		System.out.println("Minimum Boats required for captain is: " + minimumBoats);
 
 		scanner.close();
 
